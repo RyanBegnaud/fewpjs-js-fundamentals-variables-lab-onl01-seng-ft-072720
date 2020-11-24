@@ -1,2 +1,3 @@
 const companyName = "Scuber",
-mostProfitableNeighborhood = "Chelsea"
+mostProfitableNeighborhood = "Chelsea",
+companyCeo = "Susan Smith"
